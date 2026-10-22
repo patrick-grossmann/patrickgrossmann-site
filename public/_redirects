@@ -1,0 +1,43 @@
+# Unternehmensberatung -> structuralscale.com
+/unternehmensberatung https://structuralscale.com/ 301
+/unternehmensberatung/ https://structuralscale.com/ 301
+/unternehmensberatung/scale-readiness-review https://structuralscale.com/scale-readiness-review/ 301
+/unternehmensberatung/scale-readiness-review/* https://structuralscale.com/scale-readiness-review/ 301
+/unternehmensberatung/structural-scale-foundation https://structuralscale.com/foundation/ 301
+/unternehmensberatung/structural-scale-foundation/* https://structuralscale.com/foundation/ 301
+/unternehmensberatung/* https://structuralscale.com/ 301
+/Unternehmensberatung https://structuralscale.com/ 301
+/Unternehmensberatung/* https://structuralscale.com/ 301
+/emerging-founder-programm https://structuralscale.com/efp/ 301
+/emerging-founder-programm/ https://structuralscale.com/efp/ 301
+# Englisch
+/advisory https://structuralscale.com/en/ 301
+/advisory/* https://structuralscale.com/en/ 301
+/en/advisory https://structuralscale.com/en/ 301
+/en/advisory/scale-readiness-review-en https://structuralscale.com/en/scale-readiness-review/ 301
+/en/advisory/scale-readiness-review-en/* https://structuralscale.com/en/scale-readiness-review/ 301
+/en/advisory/structural-scale-foundation https://structuralscale.com/en/foundation/ 301
+/en/advisory/structural-scale-foundation/* https://structuralscale.com/en/foundation/ 301
+/en/advisory/* https://structuralscale.com/en/ 301
+/en/emerging-founder-program https://structuralscale.com/en/efp/ 301
+/en/emerging-founder-program/ https://structuralscale.com/en/efp/ 301
+/en/* / 302
+/en / 302
+# /running/ ist eine echte Seite (QR-Code auf Flyern) und darf NICHT umgeleitet werden.
+# Alte Seiten von patrickgrossmann.de -> Bereiche der Übergangsseite (vorübergehend)
+/executivecoaching /coaching/ 301
+/executivecoaching/ /coaching/ 301
+/home-2 / 301
+/home-2/ / 301
+/contact / 302
+/contact/ / 302
+/running-group /running/ 301
+/running-group/ /running/ 301
+/running-mitgliederbereich /running/ 301
+/running-mitgliederbereich/ /running/ 301
+/kontakt / 302
+/kontakt/ / 302
+/impressum https://structuralscale.com/impressum/ 302
+/impressum/ https://structuralscale.com/impressum/ 302
+/datenschutzerklarung https://structuralscale.com/datenschutz/ 302
+/datenschutzerklarung/ https://structuralscale.com/datenschutz/ 302
