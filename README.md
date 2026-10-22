@@ -2,3 +2,5 @@
 
 Statische Website, ausgeliefert über Cloudflare Pages aus dem Ordner `public/` (kein Build-Schritt).
 Arbeitsregeln siehe `CLAUDE.md`.
+
+Stand: 22.10.2026, Umzug von WordPress abgeschlossen.
