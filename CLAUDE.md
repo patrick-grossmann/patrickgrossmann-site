@@ -1,6 +1,6 @@
 # patrickgrossmann.de – Arbeitsregeln
 
-Persönliche Website von Patrick Großmann: Executive Coaching (Coaching & Mentoring) und Verteiler zur Unternehmensberatung (structuralscale.com).
+Persönliche Website von Patrick Grossmann: Executive Coaching (Coaching & Mentoring) und Verteiler zur Unternehmensberatung (structuralscale.com).
 
 ## Ablauf
 - Dieses Repository ist die einzige Quelle der Website (seit 22.10.2026, vorher WordPress bei SiteGround).
@@ -17,6 +17,6 @@ Persönliche Website von Patrick Großmann: Executive Coaching (Coaching & Mento
 - Kontakt: hello@patrickgrossmann.de.
 
 ## Texte
-- Name immer „Patrick Großmann“ (mit ß), Du-Form klein, keine Gedankenstriche (—/–) im Fließtext, „Mitarbeiter:innen“, „Founder“ ungegendert.
+- Name „Patrick Grossmann“ mit ss (international); „ß“ nur im Impressum und auf offiziellen Dokumenten. Du-Form klein, keine Gedankenstriche (—/–) im Fließtext, „Mitarbeiter:innen“, „Founder“ ungegendert.
 - Claim: „Growth needs direction“.
 - Ton: direkt, klar, auf Augenhöhe; keine Wörter wie „Growth Hacking“, „10x“, „Hacks“, „Game Changer“.
