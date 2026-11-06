@@ -20,5 +20,5 @@ Persönliche Website von Patrick Grossmann: Coaching & Mentoring und Verteiler z
 - Name „Patrick Grossmann“ mit ss (international); „ß“ nur im Impressum und auf offiziellen Dokumenten. Du-Form klein, keine Gedankenstriche (—/–) im Fließtext, „Mitarbeiter:innen“, „Founder“ ungegendert.
 - Klammer: „Ich helfe Menschen und Unternehmen, sich zu aktualisieren.“ Coaching-Claim: „Zeit für ein Update.“ Beratungs-Claim (structuralscale.com): „Strukturen, die mitwachsen.“
 - Coaching-Preise (Kleinunternehmer, ohne USt.): Foundation 549 €, Blueprint 399 €, Integration 749 €, Refresh 189 €/Monat, Einzelsession 199 €. Nur die Foundation steht sichtbar im Ablauf, alle Preise in der FAQ.
-- Kundenstimmen Coaching: Auszüge aus den Google-Bewertungen, mit Link aufs Google-Profil.
+- Kundenstimmen Coaching: Google-Bewertungen als Text auf der Seite und im Pop-up (`public/assets/reviews.js`), Namen abgekürzt. Niemals auf den Google-Maps-Eintrag verlinken (Privatadresse). Neue Bewertungen von Hand nachtragen.
 - Ton: direkt, klar, auf Augenhöhe; keine Wörter wie „Growth Hacking“, „10x“, „Hacks“, „Game Changer“.
