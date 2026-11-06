@@ -10,7 +10,7 @@ Persönliche Website von Patrick Grossmann: Coaching & Mentoring und Verteiler z
 
 ## Inhalte
 - Startseite `public/index.html`: nur zwei Bereiche, Coaching & Mentoring und Unternehmensberatung (→ structuralscale.com). Kein Running, kein Happiness Playbook auf der Startseite.
-- `public/coaching/`: Coaching & Mentoring (5 Schritte: Inner Clarity Review, Foundation, Blueprint, Integration, Refresh), Calendly-Link `https://calendly.com/patrickgrossmann/kennenlerngespraech`.
+- `public/coaching/`: Coaching & Mentoring (5 Schritte: Inner Clarity Review, Foundation, Blueprint, Integration, Refresh), Erstgespräch über Google-Terminbuchung `https://calendar.app.google/9hjaibtnn7CDYHsw7` (öffnet als Pop-up, `public/assets/booking.js`).
 - `public/running/`: Lauftreff für Väter. Muss dauerhaft unter /running/ erreichbar bleiben (QR-Code auf Flyern), wird nicht verlinkt und ist `noindex`. Niemals umleiten.
 - Gemeinsames CSS in `public/assets/site.css`. Weiterleitungen alter WordPress-Adressen in `public/_redirects`.
 - Impressum und Datenschutz liegen auf structuralscale.com und werden nur verlinkt.
