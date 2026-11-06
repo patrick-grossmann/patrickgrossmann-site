@@ -255,3 +255,13 @@ header.site .brand{flex:none}
 header.site .brand img{flex:none;width:44px;height:38px;max-width:none}
 @media (max-width:900px){header.site .navmenu{display:none}}
 header.site .navmenu a[aria-current]{text-decoration:none;color:var(--tg)}
+@media (max-width:520px){
+  .hwrap{gap:12px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+  .hright{gap:6px}
+  .head-cta{padding:9px 14px}
+  .head-cta .m{font-size:16px;letter-spacing:.6px}
+}
+@media (max-width:359px){.head-cta .m{font-size:14px}}
+.btn{max-width:100%}
+.btn .tx{min-width:0}
+@media (max-width:520px){.btn{gap:14px;padding-right:20px}.btn.ghost{padding-right:18.5px}.btn .m{font-size:17px;letter-spacing:.8px}.btn-mint{padding:14px 24px}.btn-mint .m{font-size:21px}}
