@@ -21,8 +21,18 @@
 /en/advisory/* https://structuralscale.com/en/ 301
 /en/emerging-founder-program https://structuralscale.com/en/efp/ 301
 /en/emerging-founder-program/ https://structuralscale.com/en/efp/ 301
-/en/* / 302
-/en / 302
+/en/home-english /en/ 301
+/en/home-english/ /en/ 301
+/en/about /en/coaching/ 301
+/en/about/ /en/coaching/ 301
+/en/executivecoaching /en/coaching/ 301
+/en/executivecoaching/ /en/coaching/ 301
+/en/running_dads /running/ 301
+/en/running_dads/ /running/ 301
+/en/contact /en/ 302
+/en/contact/ /en/ 302
+/en/__trashed /en/ 302
+/en/__trashed/ /en/ 302
 # /running/ ist eine echte Seite (QR-Code auf Flyern) und darf NICHT umgeleitet werden.
 # Alte Seiten von patrickgrossmann.de -> Bereiche der Übergangsseite (vorübergehend)
 /executivecoaching /coaching/ 301
