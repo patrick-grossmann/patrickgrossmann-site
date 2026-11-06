@@ -265,3 +265,8 @@ header.site .navmenu a[aria-current]{text-decoration:none;color:var(--tg)}
 .btn{max-width:100%}
 .btn .tx{min-width:0}
 @media (max-width:520px){.btn{gap:14px;padding-right:20px}.btn.ghost{padding-right:18.5px}.btn .m{font-size:17px;letter-spacing:.8px}.btn-mint{padding:14px 24px}.btn-mint .m{font-size:21px}}
+/* Über mich mit Foto */
+.about{display:grid;grid-template-columns:minmax(0,1fr) 220px;gap:32px;align-items:start}
+.about-photo{margin:4px 0 0}
+.about-photo img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:50% 15%}
+@media (max-width:640px){.about{grid-template-columns:minmax(0,1fr);gap:20px}.about-photo{order:-1;max-width:220px}}
