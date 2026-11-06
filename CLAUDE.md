@@ -13,6 +13,7 @@ Persönliche Website von Patrick Grossmann: Coaching & Mentoring und Verteiler z
 - `public/coaching/`: Coaching & Mentoring (5 Schritte: Inner Clarity Review, Foundation, Blueprint, Integration, Refresh), Erstgespräch über Google-Terminbuchung `https://calendar.app.google/9hjaibtnn7CDYHsw7` (öffnet als Pop-up, `public/assets/booking.js`).
 - `public/running/`: Lauftreff für Väter. Muss dauerhaft unter /running/ erreichbar bleiben (QR-Code auf Flyern), wird nicht verlinkt und ist `noindex`. Niemals umleiten.
 - Englische Version unter `public/en/` (Startseite) und `public/en/coaching/`. Sprachumschalter DE | EN in der Kopfzeile links neben dem Buchungs-Button; hreflang in beiden Sprachen pflegen. Englisch: eigene Claims („Time to update who you are.“), keine Wort-für-Wort-Übersetzung. Google-Bewertungen auf Englisch nur als gekennzeichnete Übersetzung, im Pop-up im deutschen Original.
+- Kopfzeile und Buttons 1:1 wie structuralscale.com: Logo 44×38, Menü 15px mit 32px Abstand, „DE | EN“ 14px, Mint-Button „Erstgespräch buchen“ (Roboto Condensed, Großbuchstaben); mobil (bis 900px) Burger-Menü. Buttons: `.btn` (dunkel, Kreis-Icon, Trennlinie, Haupt- und Unterzeile), `.btn.ghost` (weiß mit Rahmen), `.btn-mint` (großer Mint-Button im dunklen Abschluss). Buchungs-Buttons mit Kalender-Icon, alle anderen mit Pfeil.
 - Gemeinsames CSS in `public/assets/site.css`. Weiterleitungen alter WordPress-Adressen in `public/_redirects`.
 - Impressum und Datenschutz liegen auf structuralscale.com und werden nur verlinkt.
 - Kontakt: hello@patrickgrossmann.de.

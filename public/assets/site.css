@@ -204,3 +204,54 @@ header.site .wrap{padding-top:10px;padding-bottom:10px}
 .lang a[aria-current]{color:var(--tg);font-weight:700}
 .lang span{color:var(--linie)}
 @media (max-width:820px){.lang{font-size:14px}}
+/* Kopfzeile und Buttons 1:1 wie structuralscale.com (11/2026) */
+header.site{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:#fff;border-bottom:1px solid var(--linie)}
+.hwrap{position:relative;max-width:1200px;margin:0 auto;padding:12px max(24px,env(safe-area-inset-right,0px)) 12px max(24px,env(safe-area-inset-left,0px));display:flex;align-items:center;justify-content:space-between;gap:24px}
+.brand img{width:44px;height:38px}
+.navmenu{display:flex;gap:32px;font-size:15px}
+.navmenu a{color:var(--text);text-decoration:none}
+.navmenu a:hover,.navmenu a[aria-current]{color:var(--tg)}
+.hright{display:flex;align-items:center;gap:12px}
+.langsw{font-size:14px;letter-spacing:.06em;white-space:nowrap;color:#B9C2BA}
+.langsw a{color:var(--grau);text-decoration:none}
+.langsw a:hover{color:var(--tg)}
+.langsw .cur{color:var(--tg);font-weight:700}
+.head-cta{font-family:'Roboto Condensed','Arial Narrow',sans-serif;background:var(--mint);color:var(--tg);text-decoration:none;text-transform:uppercase;padding:9px 22px;min-height:44px;box-sizing:border-box;display:inline-flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;line-height:1.1;white-space:nowrap}
+.head-cta:hover{background:var(--mint);color:var(--tg)}
+.head-cta .m{font-size:18px;font-weight:700;letter-spacing:1px}
+.head-cta .s{font-size:11px;font-weight:700;letter-spacing:1.2px;margin:0}
+.mnav{display:none}
+.mnav summary{list-style:none;cursor:pointer;width:44px;height:44px;display:flex;align-items:center;justify-content:center}
+.mnav summary::-webkit-details-marker{display:none}
+.mnav .panel{position:absolute;left:0;right:0;top:100%;background:#fff;border-top:1px solid var(--linie);border-bottom:1px solid var(--linie);display:flex;flex-direction:column;padding:8px 24px 16px}
+.mnav .panel a{color:var(--tg);text-decoration:none;padding:12px 0;border-bottom:1px solid var(--linie);font-size:17px}
+.mnav .panel .langsw{display:block;padding:14px 0 4px;font-size:16px}
+.mnav .panel .langsw a{display:inline;padding:0;border:0}
+@media (max-width:900px){.navmenu{display:none}.mnav{display:block}.hdrsub{display:none}.hright>.langsw{display:none}}
+@media (max-width:520px){.brand span{display:none}}
+
+.btn{display:inline-flex;align-items:center;gap:18px;min-height:44px;box-sizing:border-box;background:var(--tg);color:#fff;text-decoration:none;padding:14px 30px 14px 18px;letter-spacing:0;font-weight:400;box-shadow:none;border:0}
+.btn:hover{background:var(--tg);color:#fff}
+.btn .ic{width:36px;height:36px;border-radius:999px;background:var(--mint);display:flex;align-items:center;justify-content:center;flex:none}
+.btn .ic svg{stroke:var(--tg)}
+.btn .dv{width:1px;height:40px;background:rgba(255,255,255,.55);flex:none}
+.btn .tx{display:flex;flex-direction:column;line-height:1.25;text-align:left}
+.btn .m{font-weight:700;font-size:18px;letter-spacing:1.5px}
+.btn .s{font-size:14px;letter-spacing:.5px;color:rgba(255,255,255,.82)}
+.btn.ghost{background:#fff;color:var(--tg);border:1.5px solid var(--tg);box-shadow:none;padding:12.5px 28.5px 12.5px 16.5px}
+.btn.ghost:hover{background:#fff;color:var(--tg)}
+.btn.ghost .ic{background:var(--tg)}
+.btn.ghost .ic svg{stroke:var(--mint)}
+.btn.ghost .dv{background:rgba(17,41,38,.3)}
+.btn.ghost .s{color:var(--grau)}
+.btn-mint{font-family:'Roboto Condensed','Arial Narrow',sans-serif;background:var(--mint);color:var(--tg);text-decoration:none;text-transform:uppercase;padding:14px 34px;min-height:44px;box-sizing:border-box;display:inline-flex;flex-direction:column;align-items:center;gap:2px;line-height:1.1}
+.btn-mint:hover{color:var(--tg)}
+.btn-mint .m{font-size:24px;font-weight:700;letter-spacing:1px}
+.btn-mint .s{font-size:11px;font-weight:700;letter-spacing:1.5px}
+.cta-row{gap:14px 18px}
+.dark .btn-mint:focus-visible{outline-color:var(--mint)}
+header.site .navmenu{display:flex;gap:32px;font-size:15px;font-weight:400}
+header.site .brand{flex:none}
+header.site .brand img{flex:none;width:44px;height:38px;max-width:none}
+@media (max-width:900px){header.site .navmenu{display:none}}
+header.site .navmenu a[aria-current]{text-decoration:none;color:var(--tg)}
